@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darshan-Alawani
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently learning the tools that are an important part of Data Analysis process
 - 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 How to reach me - darshan.alawani98@gmail.com
 
